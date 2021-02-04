@@ -1,7 +1,7 @@
 # Climat-change-overview---rising-temperatures-analysis-and-prediction
 
 ## Project info:
-Based on various datasets describing various aspects of Climate Change, mainly CO2 emissions ,concentration levels and temperatures I aim to create as accurate climate predictions as I can. 
+Based on various datasets describing various aspects of Climate Change, mainly CO2 emissions, concentration levels and temperatures I aim to create as accurate climate predictions as I can. 
 
 ### Analyses
 Analyses are avaliable in global_warming_analyses notebook. 
@@ -39,5 +39,5 @@ source: https://github.com/owid/co2-data
 Filename: FAOSTAT_data_1-27-2021.csv
 source: http://www.fao.org/faostat/en/#data/GL
 
-Filename:API_AG.LND.FRST.ZS_DS2_en_csv_v2_1926709.csv
+Filename: API_AG.LND.FRST.ZS_DS2_en_csv_v2_1926709.csv
 Source: https://data.worldbank.org/indicator/AG.LND.FRST.ZS
